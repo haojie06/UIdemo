@@ -1,4 +1,4 @@
-package com.example.uidemo;
+package com.example.uidemo.View;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -9,6 +9,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.example.uidemo.R;
 
 /**
  * Created by abc on 2017/12/18.

@@ -9,18 +9,19 @@
 
     <FrameLayout
         android:id="@+id/main_fragment"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         >
     </FrameLayout>
 
-    <com.example.uidemo.NavigateBar
+
+    <com.example.uidemo.View.NavigateBar
         android:id="@+id/navigate_bar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
         >
-    </com.example.uidemo.NavigateBar>
+    </com.example.uidemo.View.NavigateBar>
 
     </LinearLayout>

@@ -9,4 +9,25 @@
         android:layout_height="wrap_content"
         android:text="界面1"/>
 
+    <com.example.uidemo.View.RedPoint
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+    <com.example.uidemo.View.RedPoint
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+    <com.example.uidemo.View.RedPoint
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+    <com.example.uidemo.View.RedPoint
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+    <com.example.uidemo.View.RedPoint
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
 </LinearLayout>

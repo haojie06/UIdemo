@@ -5,17 +5,16 @@ import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.GestureDetector;
-import android.view.KeyEvent;
-import android.view.ScaleGestureDetector;
 import android.view.View;
-import android.view.ViewGroup;
-import android.widget.RelativeLayout;
+
+import com.example.uidemo.View.NavigateBar;
 
 public class MainActivity extends AppCompatActivity {
 
 
     NavigateBar navigateBar;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

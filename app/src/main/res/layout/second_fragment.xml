@@ -9,4 +9,16 @@
         android:layout_height="wrap_content"
         android:text="界面2"/>
 
+    <com.example.uidemo.View.QQNavigateBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+    </com.example.uidemo.View.QQNavigateBar>
+
+    <com.example.uidemo.View.QQNavigateBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+    </com.example.uidemo.View.QQNavigateBar>
+
 </LinearLayout>
